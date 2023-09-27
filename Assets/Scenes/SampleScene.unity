@@ -428,11 +428,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e34a7cdb1fc023649be606062e1e7b40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationAmplitudePitch: 0.5
-  rotationAmplitudeYaw: 0.5
-  rotationSpeedPitch: 2
-  rotationSpeedYaw: 2
-  rotationFrequency: 2.5
+  pbs_ads_stand_pitch_limit: 0.5
+  pbs_ads_stand_yaw_limit: 0.4
+  pbs_ads_pitch_speed: 0.5
+  pbs_ads_yaw_speed: 0.5
+  pbs_frequency: 2
 --- !u!1 &1260475292
 GameObject:
   m_ObjectHideFlags: 0
